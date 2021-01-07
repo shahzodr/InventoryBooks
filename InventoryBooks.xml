@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="InventoryBooks.xsl"?>
+
+<!-- root (/) -->
+<books>
+    <book>
+        <author>Ernest Hemingway</author>
+        <title>Old man and the sea</title>
+    </book>
+    <book>
+        <author>William Shakespeare</author>
+        <title>Hamlet</title>
+    </book>
+    <book>
+        <author>Maya Angelou</author>
+        <title>Woman Work</title>
+    </book>
+    <book>
+        <author>Amy Tan</author>
+        <title>The Joy Luck Club</title>
+    </book>>
+</books>
